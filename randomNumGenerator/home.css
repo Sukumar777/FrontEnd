@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+}
+
+#rollButton{
+
+    font-size: 1.3em;
+    padding: 10px 20px;
+    
+}
+
+#choice{
+    font-size: 3em;
+}

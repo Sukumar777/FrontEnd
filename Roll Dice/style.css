@@ -1,0 +1,48 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#container{
+    text-align: center;
+}
+
+#diceNumber{
+    font-weight: bold;
+}
+
+#numberDisplay{
+    width: 80px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+#roll{
+    font-size: 1.1rem;
+    padding: 5px 10px;
+    background-color: rgb(218, 93, 93);
+    color: azure;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#roll:hover{
+    background-color: rgb(220, 74, 74);
+}
+
+#roll:active{
+    background-color: rgb(227, 47, 47);
+}
+
+#diceResult{
+    margin: 25px;
+    font-weight: bold;
+}
+
+#imageResult img{
+    width: 100px;
+    margin: 5px;
+}
