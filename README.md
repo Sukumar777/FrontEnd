@@ -1,5 +1,5 @@
 # FrontEnd
-Contains below projects
+Contains below projects for practice
 HTML
 CSS
 JAVASCRIPT
